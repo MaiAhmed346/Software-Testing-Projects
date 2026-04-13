@@ -1,7 +1,7 @@
-# Genny Application – Software Testing Project
+# Gennie Application – Software Testing Project
 
 ## 📌 Overview
-This project demonstrates my practical experience in software testing by applying test design and execution on a sample application (Genny App) and API endpoints.
+This project demonstrates my practical experience in software testing by applying test design and execution on a sample application (Gennie App) and API endpoints.
 
 The goal of this project is to simulate real-world QA activities including test case creation, validation, and defect identification.
 

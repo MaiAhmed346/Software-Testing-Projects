@@ -46,9 +46,9 @@ This experience naturally aligns with **Quality Assurance**, where understanding
 
 ---
 
-### 🔹 2. E-Commerce (SauceDemo) Automation Project
+### 🔹 2. E-Commerce (SauceDemo) Manual and Automation Project
 
-* **Type:** Automation Testing
+* **Type:** Manual and Automated Testing
 
 * **Tools:** Python + Selenium WebDriver
 
